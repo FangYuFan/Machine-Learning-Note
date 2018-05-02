@@ -1,3 +1,0 @@
-#机器学习相关网站
-1.数学基础 http://ai-start.com/dl2017/html/math.html
-2.相关论坛 http://ai-start.com/
